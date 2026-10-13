@@ -1,0 +1,28 @@
+build
+mx.scratch
+!.settings
+
+# Generated build files
+build/
+Debug/
+Release/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# Compiled firmware
+*.elf
+*.bin
+*.hex
+*.o
+*.obj
+*.map
+*.list
+
+# Local editor files
+.vscode/
+.settings/
+
+# Operating system files
+Thumbs.db
+.DS_Store
